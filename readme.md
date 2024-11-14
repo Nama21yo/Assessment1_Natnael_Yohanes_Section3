@@ -25,5 +25,5 @@ Here is an image of the Webpage layout:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Nama21yo/Assessment1_Natnael_Yohanes_Section3.git
 ```
